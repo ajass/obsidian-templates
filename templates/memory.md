@@ -34,8 +34,10 @@ tags: [intake]
 
 ## Connections
 - Related people: <!-- Use [[Person Name]] to link -->
+- Related places: <!-- Link to [[Place Name]], even stubs -->
 - Related memories: <!-- Link to [[other memory notes]], even stubs -->
 - Related quotes: <!-- Link to [[quotes]] that relate to this memory -->
+- Things / Tags: <!-- Quick inline tags: #wallpaper #bathroom -->
 
 ---
 
@@ -67,7 +69,18 @@ tags: [intake]
 ---
 
 ## Media
-- 
+<details>
+<summary>🖼️ Multimedia (click to expand)</summary>
+
+### 🖼️ Images
+
+### 🎬 Video
+
+### 🎵 Audio
+
+### 📎 Other Files
+
+</details>
 
 ---
 *Created: {{date}}*

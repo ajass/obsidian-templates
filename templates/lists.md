@@ -24,6 +24,8 @@ tags: [intake]
 ## Connections
 - Related lists: <!-- Link to [[similar lists]], collections -->
 - Related concepts: <!-- Link to abstract concepts this list relates to -->
+- Related places: <!-- Link to [[Place Name]] -->
+- Things / Tags: <!-- Quick inline tags: #tools #resources -->
 
 ---
 
@@ -51,6 +53,18 @@ If your list covers multiple topics, consider splitting:
 3. #overgrown? Consider splitting into multiple atomic lists
 
 ---
+
+---
+
+## Media
+<details>
+<summary>🖼️ Multimedia (click to expand)</summary>
+
+### 🖼️ Images
+
+### 📎 Other Files
+
+</details>
 
 ---
 *Created: {{date}}*

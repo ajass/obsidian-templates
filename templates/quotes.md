@@ -30,6 +30,8 @@ tags: [intake]
 - Related quotes: <!-- Link to [[similar quotes]], theme connections -->
 - Related concepts: <!-- Link to abstract concepts: [[wisdom]], [[leadership]], etc. -->
 - Related people: <!-- Link to [[Person Name]] who said it or relates to it -->
+- Related places: <!-- Link to [[Place Name]] where you heard/found this -->
+- Things / Tags: <!-- Quick inline tags: #inspiration #leadership -->
 
 ---
 

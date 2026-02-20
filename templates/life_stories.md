@@ -36,8 +36,10 @@ tags: [draft]
 
 ## Connections
 - Related memories: <!-- Link to [[specific memories]], use stubs for future -->
+- Related places: <!-- Link to [[Place Name]] -->
 - Related quotes: <!-- Link to [[quotes]] that relate to this story -->
 - Related concepts: <!-- Link to themes: [[growth]], [[family]], [[identity]] -->
+- Things / Tags: <!-- Quick inline tags: #milestone #family -->
 
 ---
 
@@ -71,6 +73,18 @@ tags: [draft]
 ---
 
 ## Media / References
+<details>
+<summary>🖼️ Multimedia (click to expand)</summary>
+
+### 🖼️ Images
+
+### 🎬 Video
+
+### 🎵 Audio
+
+### 📎 Other Files
+
+</details>
 
 ---
 *Created: {{date}}*
