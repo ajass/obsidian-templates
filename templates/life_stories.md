@@ -35,9 +35,40 @@ tags: [draft]
 ## Lessons Learned / Why This Matters
 
 ## Connections
-- Related memories: 
-- Related quotes: 
-- Related concepts: 
+- Related memories: <!-- Link to [[specific memories]], use stubs for future -->
+- Related quotes: <!-- Link to [[quotes]] that relate to this story -->
+- Related concepts: <!-- Link to themes: [[growth]], [[family]], [[identity]] -->
+
+---
+
+## Linking & Tagging Guide
+
+### Tags to Consider Adding:
+- `#story/[life-stage]` - `#story/childhood`, `#story/young-adulthood`
+- `#story/family` - Family narratives
+- `#story/milestone` - Major life events
+- `#story/lesson` - Stories centered on learning
+- `#theme/[theme-name]` - Recurring life themes
+
+### Connecting to Your Garden:
+- **Memory links**: Link to specific [[memory]] notes that relate to this story
+- **Quote integration**: Embed relevant `[[quotes]]` that relate to themes
+- **Concept threads**: Connect to abstract concepts: `[[resilience]]`, `[[belonging]]`
+- **People pages**: Link to `[[Person Name]]` notes for people involved
+
+### For Longer Narratives (→ #fruit):
+- This is a synthesis of multiple atomic notes
+- Links to several #evergreen notes as sources
+- Could become a blog post, essay, or family document
+
+### Tag Progression for Stories:
+| Current | Next Step |
+|---------|-----------|
+| #draft | Add 5+ links to atomic notes (memories, quotes, concepts) |
+| #seedling | Verify bidirectional links, ensure narrative flows |
+| #fruit | Published or shared with family |
+
+---
 
 ## Media / References
 
