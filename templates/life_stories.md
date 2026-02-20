@@ -9,13 +9,39 @@ tags: [draft]
 
 # {{title}}
 
-## When to use which tag:
-<!-- #intake = Raw, unformatted initial capture -->
-<!-- #seedling = Analyzed but not cross-linked -->
-<!-- #evergreen = Atomic, formatted, cross-linked (goal state) -->
-<!-- #overgrown = Legacy or multi-concept needing cleanup -->
-<!-- #draft = Work in progress for publication -->
-<!-- #fruit = Published or synthesized work -->
+<details>
+<summary>📋 Gardener Instructions (click to expand)</summary>
+
+## Tag Stages
+
+| Tag | Meaning | Action Needed |
+|-----|---------|---------------|
+| `#intake` | Raw, unformatted capture | Just get it captured |
+| `#seedling` | Analyzed, not yet cross-linked | Add 5+ links to atomic notes |
+| `#evergreen` | Atomic, formatted, cross-linked | Bidirectional links verified |
+| `#overgrown` | Legacy or multi-concept | Split or consolidate |
+| `#draft` | Work in progress for publication | Write, add source links |
+| `#fruit` | Published or synthesized | Final form, shareable |
+
+## Suggested Tags
+- `#story/[life-stage]` - `#story/childhood`, `#story/young-adulthood`
+- `#story/family` - Family narratives
+- `#story/milestone` - Major life events
+- `#story/lesson` - Learning-centered stories
+- `#theme/[name]` - Recurring themes
+
+## Connecting to Your Garden
+- **Memories**: Link to specific [[memory]] notes
+- **Quotes**: Embed relevant [[quotes]] on themes
+- **Concepts**: Connect to abstract ideas: `[[resilience]]`, `[[belonging]]`
+- **People**: Link to `[[Person Name]]` notes
+
+## For → #fruit (Published)
+- Synthesize multiple atomic notes
+- Link to several #evergreen sources
+- Could become blog post, essay, or family document
+
+</details>
 
 ## The Story
 
@@ -40,37 +66,6 @@ tags: [draft]
 - Related quotes: <!-- Link to [[quotes]] that relate to this story -->
 - Related concepts: <!-- Link to themes: [[growth]], [[family]], [[identity]] -->
 - Things / Tags: <!-- Quick inline tags: #milestone #family -->
-
----
-
-## Linking & Tagging Guide
-
-### Tags to Consider Adding:
-- `#story/[life-stage]` - `#story/childhood`, `#story/young-adulthood`
-- `#story/family` - Family narratives
-- `#story/milestone` - Major life events
-- `#story/lesson` - Stories centered on learning
-- `#theme/[theme-name]` - Recurring life themes
-
-### Connecting to Your Garden:
-- **Memory links**: Link to specific [[memory]] notes that relate to this story
-- **Quote integration**: Embed relevant `[[quotes]]` that relate to themes
-- **Concept threads**: Connect to abstract concepts: `[[resilience]]`, `[[belonging]]`
-- **People pages**: Link to `[[Person Name]]` notes for people involved
-
-### For Longer Narratives (→ #fruit):
-- This is a synthesis of multiple atomic notes
-- Links to several #evergreen notes as sources
-- Could become a blog post, essay, or family document
-
-### Tag Progression for Stories:
-| Current | Next Step |
-|---------|-----------|
-| #draft | Add 5+ links to atomic notes (memories, quotes, concepts) |
-| #seedling | Verify bidirectional links, ensure narrative flows |
-| #fruit | Published or shared with family |
-
----
 
 ## Media / References
 <details>

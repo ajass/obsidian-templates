@@ -9,13 +9,39 @@ tags: [intake]
 
 # {{title}}
 
-## When to use which tag:
-<!-- #intake = Raw, unformatted initial capture -->
-<!-- #seedling = Analyzed but not cross-linked -->
-<!-- #evergreen = Atomic, formatted, cross-linked (goal state) -->
-<!-- #overgrown = Legacy or multi-concept needing cleanup -->
-<!-- #draft = Work in progress for publication -->
-<!-- #fruit = Published or synthesized work -->
+<details>
+<summary>📋 Gardener Instructions (click to expand)</summary>
+
+## Tag Stages
+
+| Tag | Meaning | Action Needed |
+|-----|---------|---------------|
+| `#intake` | Raw, unformatted capture | Just get it captured |
+| `#seedling` | Analyzed, not yet cross-linked | Add 3+ concept links |
+| `#evergreen` | Atomic, formatted, cross-linked | Bidirectional links verified |
+| `#overgrown` | Legacy or multi-concept | Split into atomic notes |
+| `#draft` | Work in progress for publication | Write, add source links |
+| `#fruit` | Published or synthesized | Final form, shareable |
+
+## Suggested Tags
+- `#memory/life` - General life memories
+- `#memory/family` - Family-related
+- `#memory/milestone` - Major life events
+- `#memory/place` - Location-tied memories
+- `#emotion/[name]` - Emotional categorization
+
+## Linking Tips
+- **Stubs**: Link to `[[Future Note Idea]]` you want to create
+- **Bidirectional**: Check backlinks after creating
+- **Concepts**: Link to abstract ideas: `[[courage]]`, `[[growth]]`
+- **Time**: Link to period notes: `[[Summer 1995]]`
+
+## Move to Evergreen
+1. Fill out sensory details
+2. Add 3+ concept/people/place links
+3. Verify bidirectional links work
+
+</details>
 
 ## The Memory
 
@@ -38,35 +64,6 @@ tags: [intake]
 - Related memories: <!-- Link to [[other memory notes]], even stubs -->
 - Related quotes: <!-- Link to [[quotes]] that relate to this memory -->
 - Things / Tags: <!-- Quick inline tags: #wallpaper #bathroom -->
-
----
-
-## Linking & Tagging Guide
-
-### Tags to Consider Adding:
-- `#memory/life` - General life memories
-- `#memory/family` - Family-related memories
-- `#memory/milestone` - Major life milestones
-- `#memory/place` - Memories tied to specific locations
-- `#emotion/[emotion-name]` - For emotional categorization
-
-### Linking Tips:
-- **Create stubs**: Link to notes you want to write later: `[[Future Memory Idea]]`
-- **Bidirectional links**: After creating, check backlinks to find unexpected connections
-- **Concept bridges**: Link to abstract concepts this memory illustrates: `[[ courage]]`, `[[growth]]`
-- **Time-based links**: Link to related memories from same period: `[[Summer 1995]]`
-
----
-
-## Tag Progression (Lean Gardening)
-
-| Current | Action Needed |
-|---------|---------------|
-| #intake | Fill out sensory details, add initial links |
-| #seedling | Ensure atomic focus, add 3+ links to concepts |
-| #evergreen | Cross-linked, stands alone, bidirectional links verified |
-
----
 
 ## Media
 <details>
